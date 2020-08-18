@@ -34,20 +34,7 @@ under the License.
 		<scala.binary.version>2.11</scala.binary.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<!-- External Components -->
-		<rmq.client.version>4.2.0</rmq.client.version>
-		<jedis.version>2.9.3</jedis.version>
-		<s3.version>1.10.69</s3.version>
-		<flume.version>1.5.0</flume.version>
-		<!-- Business Utils -->
-		<protobuf.version>3.11.4</protobuf.version>
-		<chill.version>0.7.6</chill.version>
-		<aviator.version>4.2.10</aviator.version>
-		<datasketches.version>1.2.0-incubating</datasketches.version>
-		<!-- Coding Utils -->
-		<owner.version>1.0.11</owner.version>
 		<lombok.version>1.18.12</lombok.version>
-		<annotations.version>19.0.0</annotations.version>
 	</properties>
 
 	<repositories>
